@@ -19,8 +19,8 @@ Sou um desenvolvedor apaixonado por tecnologia, com experiência em construir ap
 
 ### 📊 Estatísticas do GitHub
 
-[![Seu Nome GitHub Stats](https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&theme=dracula)](https://github.com/seuusername)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusername&layout=compact&theme=dracula)](https://github.com/seuusername)  
+[![Seu Nome GitHub Stats](https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&theme=dracula)](https://github.com/GabrielDoSaaS)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusername&layout=compact&theme=dracula)](https://github.com/GabrielDoSaaS)  
 
 ### 📫 Como me encontrar
 
