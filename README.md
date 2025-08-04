@@ -1,37 +1,32 @@
-# Olá, eu sou [Seu Nome]! 👋
+# Olá, eu sou [Seu Nome]! 👋  
 
-## 🚀 Desenvolvedor Full Stack
+## 🚀 Desenvolvedor Full Stack  
 
-Sou um desenvolvedor apaixonado por tecnologia, com experiência em construir aplicações web modernas e escaláveis. Minha stack principal inclui **TypeScript**, **JavaScript**, **React**, **Angular**, **Node.js** e bancos de dados como **MongoDB** e **PostgreSQL**. Também trabalho com **Tailwind CSS** para criar interfaces responsivas e elegantes.
+Sou um desenvolvedor apaixonado por tecnologia, com experiência em construir aplicações web modernas e escaláveis. Minha stack principal inclui **TypeScript**, **JavaScript**, **React**, **Angular**, **Node.js** e bancos de dados como **MongoDB** e **PostgreSQL**. Também trabalho com **Tailwind CSS** para criar interfaces responsivas e elegantes.  
 
-### 🛠️ Tecnologias & Habilidades
+### 🛠️ Tecnologias & Habilidades  
 
 - **Front-end:** React, Angular, JavaScript, TypeScript, Tailwind CSS, HTML5, CSS3  
 - **Back-end:** Node.js, Express, NestJS  
 - **Bancos de dados:** MongoDB, PostgreSQL  
 - **Ferramentas:** Git, Docker, Vite, Webpack  
-- **Metodologias:** Agile, Scrum, Clean Code  
 
-### 🌱 Atualmente aprendendo / explorando
+### 🗂️ Linguagens mais usadas  
 
-- [Tecnologia ou framework que está estudando, ex: "Deno", "Rust", "AWS"]  
-- [Outro tópico de interesse]  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusername&layout=compact&theme=dracula&hide=html,css)](https://github.com/seuusername)  
 
-### 📊 Estatísticas do GitHub
+*(Ocultando linguagens menos relevantes como HTML/CSS para destacar as principais.)*  
 
-[![GabrielDoSaaS GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielDoSaaS&show_icons=true&theme=dracula)](https://github.com/GabrielDoSaaS)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDoSaaS&layout=compact&theme=dracula)](https://github.com/GabrielDoSaaS)  
-
-### 📫 Como me encontrar
+### 📫 Como me encontrar  
 
 - LinkedIn: [Seu Perfil](https://www.linkedin.com/in/seu-linkedin/)  
 - E-mail: seuemail@exemplo.com  
 - Portfólio: [seuportfolio.com](https://seuportfolio.com)  
 
-### ⚡ Curiosidade
+### ⚡ Curiosidade  
 
-[Uma curiosidade ou hobby seu, ex: "Adoro contribuir para open-source nas horas vagas!" ou "Sou um entusiasta de jogos indie."]  
+[Uma curiosidade ou hobby seu, ex: "Adoro contribuir para open-source!" ou "Sou um entusiasta de jogos indie."]  
 
----
+---  
 
 ⭐️ Feito com ❤️ por [Seu Nome](https://github.com/seuusername)  
