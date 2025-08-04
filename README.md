@@ -1,7 +1,7 @@
 <div align="center">
   
 # 𝙂𝙖𝙗𝙧𝙞𝙚𝙡 𝙊𝙡𝙞𝙫𝙚𝙞𝙧𝙖 𝙙𝙖 𝙎𝙞𝙡𝙫𝙖  
-### �𝕣𝕠𝕗𝕚𝕤𝕤𝕚𝕠𝕟𝕒𝕝 𝕗𝕦𝕝𝕝-𝕤𝕥𝕒𝕔𝕜 𝕕𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣
+### Desenvolvedor Full Stack
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=38BCF7&width=435&lines=Modern+Web+Applications;Clean+Code+Enthusiast;Problem+Solver;Continuous+Learner)](https://git.io/typing-svg)
 
@@ -9,7 +9,6 @@
 
 ---
 
-### 🔥 Tech Stack
 
 <table align="center">
   <tr>
@@ -63,7 +62,7 @@
 
 ---
 
-### 📫 ℂ𝕠𝕟𝕟𝕖c𝕥 𝕨𝕚𝕥𝕙 𝕞𝕖
+### 📫 Entre em contato
 
 <div align="center">
   
