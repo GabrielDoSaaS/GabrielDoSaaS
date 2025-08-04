@@ -1,4 +1,4 @@
-# Olá, eu sou [Seu Nome]! 👋  
+# Olá, eu sou Gabriel Oliveira da Silva! 👋  
 
 ## 🚀 Desenvolvedor Full Stack  
 
@@ -13,20 +13,12 @@ Sou um desenvolvedor apaixonado por tecnologia, com experiência em construir ap
 
 ### 🗂️ Linguagens mais usadas  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusername&layout=compact&theme=dracula&hide=html,css)](https://github.com/seuusername)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDoSaaS&layout=compact&theme=dracula&hide=html,css)](https://github.com/GabrielDoSaaS)  
 
-*(Ocultando linguagens menos relevantes como HTML/CSS para destacar as principais.)*  
 
 ### 📫 Como me encontrar  
 
-- LinkedIn: [Seu Perfil](https://www.linkedin.com/in/seu-linkedin/)  
-- E-mail: seuemail@exemplo.com  
-- Portfólio: [seuportfolio.com](https://seuportfolio.com)  
-
-### ⚡ Curiosidade  
-
-[Uma curiosidade ou hobby seu, ex: "Adoro contribuir para open-source!" ou "Sou um entusiasta de jogos indie."]  
-
+- LinkedIn: https://www.linkedin.com/in/gabriel-silva-ofc/
+- E-mail: gabrieldosaas@gmail.com
 ---  
 
-⭐️ Feito com ❤️ por [Seu Nome](https://github.com/seuusername)  
